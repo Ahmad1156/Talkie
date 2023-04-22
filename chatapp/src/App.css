@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@200&family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-color: rgba(0, 234, 255, 0.792);
+}
+::-webkit-scrollbar {
+  width: 0px;
+}
